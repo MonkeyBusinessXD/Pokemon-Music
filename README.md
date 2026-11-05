@@ -1,0 +1,3 @@
+Disclaimer & Credits: This is a non-commercial, non-profit fan project created strictly for educational and personal entertainment purposes under Fair Use guidelines. All music, sound effects, characters, and related assets are the sole property of Nintendo, Game Freak, and The Pokémon Company. No copyright infringement is intended. Please support the official releases. Audio Source: Audio files sourced from community archival tracks and loops via Pokéli on YouTube.
+
+Files that start with "zygarde_" are from Pokemon: Legends Z-A and same for "arceus_" but from Pokemon: Legends Arceus (it was just easier for me to organize the files).
